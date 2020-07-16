@@ -5,3 +5,4 @@
   - https://research.google/pubs/pub41854/
 
 2. LDA
+  - https://4four.us/article/2010/11/latent-dirichlet-allocation-simply
