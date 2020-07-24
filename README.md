@@ -8,3 +8,6 @@
 
 - LDA. 
   : https://4four.us/article/2010/11/latent-dirichlet-allocation-simply
+
+- github
+  : https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
