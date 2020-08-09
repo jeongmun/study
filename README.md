@@ -11,3 +11,8 @@
 
 - github
   : https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
+
+
+# 추천시스템 관련 사이트
+- 페이스북 추천시스템
+  : https://www.notion.so/ecc73247c9f9486d9063fca918c5917e
