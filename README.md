@@ -14,6 +14,10 @@
 
 - 정규표현식
 
+- 머신러닝 인강 사이트 모음
+  : https://deep-learning-drizzle.github.io/
+  
+  
 # 추천시스템 관련 사이트
 - 페이스북 추천시스템
   : https://www.notion.so/ecc73247c9f9486d9063fca918c5917e
