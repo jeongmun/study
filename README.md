@@ -17,6 +17,9 @@
 - 머신러닝 인강 사이트 모음
   : https://deep-learning-drizzle.github.io/
   
+- ray library
+  : multiprocessing 되는 bayesian hyper parameter optimazation..?
+  : https://docs.ray.io/en/latest/tune/api_docs/suggestion.html
   
 # 추천시스템 관련 사이트
 - 페이스북 추천시스템
