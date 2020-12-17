@@ -21,6 +21,9 @@
   : multiprocessing 되는 bayesian hyper parameter optimazation..?
   : https://docs.ray.io/en/latest/tune/api_docs/suggestion.html
   
+- python 중급
+  : https://wikidocs.net/book/4170
+  
 # 추천시스템 관련 사이트
 - 페이스북 추천시스템
   : https://www.notion.so/ecc73247c9f9486d9063fca918c5917e
