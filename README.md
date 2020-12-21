@@ -27,3 +27,9 @@
 # 추천시스템 관련 사이트
 - 페이스북 추천시스템
   : https://www.notion.so/ecc73247c9f9486d9063fca918c5917e
+
+
+
+# 참고
+- 구글 코랩 또는 캐글 노트북을 서버로 사용하는 법
+: https://www.youtube.com/watch?v=7kTbM3D02jU&feature=youtu.be
