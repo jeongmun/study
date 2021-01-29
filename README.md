@@ -28,6 +28,9 @@
 - nc soft
   : https://blog.ncsoft.com/rd/data-science/
   
+  - 네트워크 분석 기법 활용 예
+  : https://blog.ncsoft.com/%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-%eb%b6%84%ec%84%9d%ea%b8%b0%eb%b2%95%ec%9d%84-%ed%99%9c%ec%9a%a9%ed%95%9c-%ea%b2%8c%ec%9e%84-%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%b6%84%ec%84%9d-1/
+  
 ## 추천시스템 관련 사이트
 - 페이스북 추천시스템
   : https://www.notion.so/ecc73247c9f9486d9063fca918c5917e
