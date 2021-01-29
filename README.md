@@ -1,7 +1,7 @@
 # study
 
 
-스터디해야할 리스트
+# 스터디해야할 리스트
 
 - Inferring causal impact using Bayesian structural time-series models. 
   : https://research.google/pubs/pub41854/
@@ -23,6 +23,10 @@
   
 - python 중급
   : https://wikidocs.net/book/4170
+  
+# 데이터 분석 관련 사이트
+- nc soft
+  : https://blog.ncsoft.com/rd/data-science/
   
 # 추천시스템 관련 사이트
 - 페이스북 추천시스템
